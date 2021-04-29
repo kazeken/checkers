@@ -1,0 +1,24 @@
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Shared\bin\Debug\net5.0\Checkers.Shared.deps.json
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Shared\bin\Debug\net5.0\Checkers.Shared.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Shared\bin\Debug\net5.0\ref\Checkers.Shared.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Shared\bin\Debug\net5.0\Checkers.Shared.pdb
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Shared\obj\Debug\net5.0\Checkers.Shared.csprojAssemblyReference.cache
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Shared\obj\Debug\net5.0\Checkers.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Shared\obj\Debug\net5.0\Checkers.Shared.AssemblyInfoInputs.cache
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Shared\obj\Debug\net5.0\Checkers.Shared.AssemblyInfo.cs
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Shared\obj\Debug\net5.0\Checkers.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Shared\obj\Debug\net5.0\Checkers.Shared.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Shared\obj\Debug\net5.0\ref\Checkers.Shared.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Shared\obj\Debug\net5.0\Checkers.Shared.pdb
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Shared\bin\Debug\net5.0\Checkers.Shared.deps.json
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Shared\bin\Debug\net5.0\Checkers.Shared.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Shared\bin\Debug\net5.0\ref\Checkers.Shared.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Shared\bin\Debug\net5.0\Checkers.Shared.pdb
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Shared\obj\Debug\net5.0\Checkers.Shared.csprojAssemblyReference.cache
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Shared\obj\Debug\net5.0\Checkers.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Shared\obj\Debug\net5.0\Checkers.Shared.AssemblyInfoInputs.cache
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Shared\obj\Debug\net5.0\Checkers.Shared.AssemblyInfo.cs
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Shared\obj\Debug\net5.0\Checkers.Shared.csproj.CoreCompileInputs.cache
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Shared\obj\Debug\net5.0\Checkers.Shared.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Shared\obj\Debug\net5.0\ref\Checkers.Shared.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Shared\obj\Debug\net5.0\Checkers.Shared.pdb

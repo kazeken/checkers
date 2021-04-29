@@ -1,0 +1,1268 @@
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\blazor.boot.json
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\Checkers.Client.StaticWebAssets.xml
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\Checkers.Client.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\ref\Checkers.Client.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\Checkers.Client.pdb
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Checkers.Client.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Checkers.Client.pdb
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\blazor.webassembly.js
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\icudt.dat.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.5.js.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Checkers.Shared.dll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\icudt.dat
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.5.js
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Checkers.Shared.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Checkers.Shared.pdb
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\Checkers.Client.csprojAssemblyReference.cache
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\Checkers.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\Checkers.Client.AssemblyInfoInputs.cache
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\Checkers.Client.AssemblyInfo.cs
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\Checkers.Client.csproj.CoreCompileInputs.cache
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\Checkers.Client.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\Checkers.Client.RazorComponent.input.cache
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\Checkers.Client.RazorComponent.output.cache
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\RazorDeclaration\Checkers.Client.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\Checkers.Client.TagHelpers.input.cache
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\Checkers.Client.TagHelpers.output.cache
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\Checkers.Client.RazorCoreGenerate.cache
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\r9mmOkRk.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\JqL1wBJ5.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\tb5Ep9lL.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\a1YPaNTz.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\++3JTZfI.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\4CbH6MIT.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\w+wWrx8v.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\Ghcy6nWl.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\YCD9wGca.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\Lso796Lc.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\tgF2fBcA.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\zK5bjjtc.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\t38ZvcYQ.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\SQXnfxVK.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\cb2jgEKg.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\bNCPE23Y.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\cOCaW+T4.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\8PY4bLaH.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\FuaZfHUH.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\SopzzKma.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\6b4tmhGJ.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\3r3QBbxD.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\W3Kz+grQ.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\a8P0ECF+.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\Ke+15tKe.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\qjhIC1m8.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\5G98igw6.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\zp6FQcRj.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\ZMz1slgZ.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\EOqm379K.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\r++wOJrV.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\o+DERLe3.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\l09RANf7.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\xmgnNNGD.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\fHCuReNE.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\Y47fl43H.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\+0Tw+faz.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\Gjx5rEv2.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\xivfz8qP.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\07Nwg3VX.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\8BC+SUP0.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\rHN2Gb2h.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\vzoDvRDc.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\9t1Uq06o.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\VZldDDIZ.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\sDHUNSod.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\K0IqH1+n.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\A3XPiZPC.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\fP6GXZAN.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\SZmmpr94.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\FBDLOnc2.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\JPK9kKK7.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\6LkzLxbx.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\3LsjgNft.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\kiwTHkMN.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\ZjwD1gq6.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\zoX5iBP9.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\Fl54EDSt.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\6Hrz0MiJ.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\B+dzPnll.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\V4THDfli.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\FjwIJD9f.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\Tn23g26M.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\bLaaVKiL.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\ye46H8Hd.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\w+KkB9hW.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\Kk6OLGeP.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\r4Lz5PMH.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\nkkwH3wN.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\7Cx3+rsb.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\FwS+8n5v.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\zDnzj98Z.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\LRbG+8G+.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\KzLe2teI.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\Dv7v07ZD.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\RAz4VGRu.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\PRmxu0oF.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\EzQRqwuB.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\dZ6ynAFO.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\N9roLRDX.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\v5g7e7Zk.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\8JH3221l.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\FaUi3yyg.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\x+SmdzGA.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\PtdtIUYC.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\NE1rnKvv.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\8Uo3KSTl.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\t7zJTluz.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\lf1+opTR.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\siJ3RV+J.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\JxaB5ECE.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\3OJ+FiIy.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\UZkt4G9W.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\uifYhWHc.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\vJ3WWb6y.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\IfbsDni4.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\Ugqq4+UM.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\zg1AQ6GP.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\lWtJmMU4.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\VjDjyLFJ.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\Y2xtuPvH.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\lKEsMkPi.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\3Wr3OP3h.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\OZBh593j.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\5G2XZnUu.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\kqMg66XT.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\9Vy5jJdW.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\VGMjF8Bl.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\E3bFHeLi.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\AocfiMUg.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\tcKX5pq8.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\XkdkYYcR.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\6qfyqXBx.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\k+OxHnyZ.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\24uMBdSg.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\RkNjbpwu.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\wJWaG9op.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\kjhp6yIE.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\6jxiXsPL.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\Qz7fNYp9.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\ydZKtg9Z.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\f5oSnIp3.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\zLghi+R3.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\xo3ElWYa.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\afOCOd4W.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\eRxlElUX.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\Nxw+7+ev.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\+nSgJtnZ.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\HegtbLNK.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\HyyhG2hH.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\h+VM7bcz.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\TIUwGaEd.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\vkhWAC6P.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\pADOEaky.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\0Pv0KFmh.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\IJiv+0Vq.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\V+A4wtWm.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\pzcL3eLA.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\FxH2nE+z.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\UrZXPnW8.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\7bl1Zc0F.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\aKKMsgFI.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\WGtvvBJ8.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\UM6HGFm5.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\OOv+TqtB.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\A+M9jlC4.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\dK5RE5LG.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\4mlhrKOb.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\ePp3YZ1G.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\bjgSOsUX.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\Nwfx0fMx.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\FRrdBqqj.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\hbAU3iYC.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\pq6Zqecv.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\UkNwPY+w.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\XwsSocgP.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\yuBY4vhL.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\seW+jYaM.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\qNOOVdnS.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\0KaGcBeq.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\Jgk2vY0C.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\hrFwpqrO.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\Hvmj6Y0A.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\mZ4IJgL5.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\kye3FoGN.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\mqtOILpt.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\phJOhZL3.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\ycnwpEqO.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\hkyacOvh.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\dqIyMh5K.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\mROxL4hn.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\jsvpEKvy.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\YWZUJWlj.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\UFO6QFUo.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\CgQM5pzL.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\JPxff1qi.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\7y0UHV5i.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\Gv5Iy+O4.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\DzAILAmi.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\p+W908n+.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\w7ypBCwA.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\3SGfV9cU.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\Tgl4rOLr.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\Pkr6ujVM.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\+7Mdbuvx.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\+McXlNlc.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\QnyvBcBW.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\5ePAB47u.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\SvkbqGWE.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\S6J3PWZp.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\DXADp43S.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\XW39KKwP.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\g0ctKN2f.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\zy9GkPzZ.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\+do63Fcx.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\cpYATtVL.gz
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\staticwebassets\Checkers.Client.StaticWebAssets.Manifest.cache
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\staticwebassets\Checkers.Client.StaticWebAssets.xml
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\scopedcss\bundle\Checkers.Client.styles.css
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\scopedcss\projectbundle\Checkers.Client.bundle.scp.css
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\Checkers.Client.RazorTargetAssemblyInfo.cache
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\Checkers.Client.csproj.CopyComplete
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\Checkers.Client.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\ref\Checkers.Client.dll
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\Checkers.Client.pdb
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\RazorDeclaration\Checkerboard.razor.g.cs
+C:\Users\Kazeken\source\repos\Checkers\Checkers\Client\obj\Debug\net5.0\Razor\Checkerboard.razor.g.cs
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\blazor.boot.json
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\Checkers.Client.StaticWebAssets.xml
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\Checkers.Client.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\ref\Checkers.Client.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\Checkers.Client.pdb
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Checkers.Client.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Checkers.Client.pdb
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\blazor.webassembly.js
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\icudt.dat.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.0.js.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Checkers.Shared.dll.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\icudt.dat
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.0.js
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Checkers.Shared.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\bin\Debug\net5.0\wwwroot\_framework\Checkers.Shared.pdb
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\Checkers.Client.csprojAssemblyReference.cache
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\Checkers.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\Checkers.Client.AssemblyInfoInputs.cache
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\Checkers.Client.AssemblyInfo.cs
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\Checkers.Client.csproj.CoreCompileInputs.cache
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\Checkers.Client.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\Checkers.Client.RazorComponent.input.cache
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\RazorDeclaration\Checkerboard.razor.g.cs
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\Checkers.Client.RazorComponent.output.cache
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\RazorDeclaration\Checkers.Client.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\Checkers.Client.TagHelpers.input.cache
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\Checkers.Client.TagHelpers.output.cache
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\Checkers.Client.RazorCoreGenerate.cache
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\Razor\Checkerboard.razor.g.cs
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\3Bb9uJXF.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\YeDVw9ph.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\AY47XKg3.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\AZswFxH4.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\3qP98Lz4.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\VcE5rKE4.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\ZP+AjMX7.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\Z8K+Ht23.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\JRLIVJ+p.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\S0ZGvGhU.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\4h4z1NDF.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\6M15xy8r.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\cHwCuI+w.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\CjBoiaAS.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\9zBURx+p.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\xZZhTXPh.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\sREHZfrH.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\DG4+WhrK.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\QSKYR+mq.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\lNB9qDQ8.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\w3HCUVTZ.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\RzahPcIO.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\HIUj26RW.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\julHHuKy.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\uj4Suhng.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\FGxyotOF.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\8cF7oVBs.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\+wNzoGHk.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\PIOObwd2.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\qge0u44y.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\1ybRd54H.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\U3hPoqTd.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\eYgjhVNK.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\JWAlt4Mr.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\OYSXRPRv.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\Dx8d92bn.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\mZXR5eqe.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\khe5tasu.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\yNdiPfvJ.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\9pX2HsHH.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\opabxHma.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\BkXNYGrI.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\bfz2cAr9.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\ma+YhkaH.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\6AP63dyi.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\szeso8eG.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\AtJ0TZ6M.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\aTPR2ORl.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\w2+3IDA8.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\pgrHw5u+.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\gtjXSjeL.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\hZ8dN8hR.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\GxeSFQHf.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\D6WMH4Jk.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\5gvjHoin.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\zUIsAtMM.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\TMYId57v.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\ZAVoDW0e.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\JRnTZIcH.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\gTVkQ4Nc.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\XtDnENb+.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\vap3mqmu.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\t2bWq3MP.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\bGdW6GOE.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\45HkcEza.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\sd1El0GG.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\P3z0r8aB.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\+8HlEfM+.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\bUTF+m8I.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\JJBy1UJg.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\Ce2LiqWo.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\dvyGSUn4.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\dYN7M06u.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\D6N3Yr0E.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\8BoCRUzk.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\6lVo05R7.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\D3957moE.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\X9NqeDwv.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\IRt+1uk0.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\PDWTIjdG.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\CEdVSsoK.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\lk4SAJV+.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\LsfbcLpW.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\3nJSCfCm.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\NmT0Cawi.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\VcN+YK6B.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\r8x4CpYo.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\zFLZyWn5.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\oBXplboL.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\90+5lmHf.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\1eKMUVDH.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\7jmQ0TK6.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\vdi6W4EV.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\f+VvWvwv.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\h+CB85PQ.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\hbVTlZQA.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\1ItK3Wte.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\zDI18Gep.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\+kqmSYFk.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\b5wazr1Q.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\9EnCzPCG.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\g1i+XMc6.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\Vh8Yygq+.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\cTJyfW+g.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\+ItgCQue.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\H2j+2GTq.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\mCzzrYYm.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\d+Ss8ecq.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\tUd2R9j4.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\HK+qNH91.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\xESmLam3.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\zLGnA4Uq.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\nbkCRx+f.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\HIQzGK30.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\Rdpye20q.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\XBacDLiB.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\ThSBx8qf.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\ND1HgOJp.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\zUUsLJBu.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\CHJgjGvq.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\j2PbkWjM.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\are+cY+i.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\iGcSgLC4.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\OYbVF9+Z.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\T9Mh9+iB.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\VrYfInT1.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\Iw9XOqmU.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\ljh7aRvy.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\JLBnDSaN.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\7wLjFP7t.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\Freu5Hly.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\X8LM3EEx.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\zfAbZV+A.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\uTM2CUXS.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\jZEqc+Rp.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\j8DYXRDJ.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\PGl+3ObC.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\pTAGZn7H.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\MgYgVQl5.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\JlTLn9Cn.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\wohIP+oR.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\zMwRd2cR.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\FayTzL7g.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\xRBrqGxZ.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\B0FHSdMF.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\Tu45PY7k.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\Oa2KXVne.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\FXF0TORB.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\3sTOpmMZ.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\xuIlaRN+.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\6PRdWBLA.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\dpIsyGny.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\EoT3dMEN.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\zYkenOzZ.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\2E5K2bF7.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\fxDda0pR.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\ZGE6uaKF.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\LtpiVjdW.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\GfgxTtkS.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\9icqaRHK.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\ZLV7ExOw.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\uf7FYgkw.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\1PaJkhTQ.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\3pYVsofj.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\RbUEIw0a.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\DpXJ8Bco.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\oz4+K1y+.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\lFKx7eJ1.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\GcU1Eb55.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\+CtN6QI1.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\qT3JpklL.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\+X6zSmtE.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\PWrEccnR.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\MPVCeeCd.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\fMScaX0U.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\EI6pDWq3.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\EcRnZttJ.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\X26QgAD4.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\pWL1YZJ1.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\KaB5jzGk.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\diw71r0K.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\VzQHoRCK.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\tk5Q6UhX.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\L9Ln5wpU.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\SNoyogU8.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\AKbniOs9.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\oiuTRcaO.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\EphOAe0X.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\Jbnl6PTL.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\A59wlSa6.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\EXM2wdkY.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\5d29HD1a.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\E+AnmfZG.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\dBP3lM1q.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\nyg+b4Js.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\build-gz\OLxC01n+.gz
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\staticwebassets\Checkers.Client.StaticWebAssets.Manifest.cache
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\staticwebassets\Checkers.Client.StaticWebAssets.xml
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\scopedcss\bundle\Checkers.Client.styles.css
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\scopedcss\projectbundle\Checkers.Client.bundle.scp.css
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\Checkers.Client.RazorTargetAssemblyInfo.cache
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\Checkers.Client.csproj.CopyComplete
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\Checkers.Client.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\ref\Checkers.Client.dll
+C:\Users\azamat.zhiyentay\Downloads\Telegram Desktop\Checkers\Checkers\Client\obj\Debug\net5.0\Checkers.Client.pdb
